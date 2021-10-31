@@ -1,10 +1,10 @@
 {
   "name": "Kipli-Userbot",
   "description": "[Kipli-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "logo": "https://telegra.ph/file/6cee49d09b392312218cd.jpg",
   "keywords": ["telegram", "userbot", "Kipli-userbot", "modular", "python"],
-  "repository": "https://github.com/mrismanaziz/Man-Userbot",
-  "telegram": ["https://t.me/mrismanaziz", "https://t.me/tofik_dn"],
+  "repository": "https://github.com/ryzxzn/Kipli-Userbot",
+  "telegram": ["https://t.me/raflyskuy", "https://t.me/@Iiiiiiiiiiiiiiiiiiiiiiiz"],
   "success_url": "https://t.me/Lunatic0de",
   "stack": "container",
   "env": {
