@@ -1,4 +1,4 @@
-# Man-Userbot Telegram
+# Kipli-Userbot Telegram
 
 Man-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
